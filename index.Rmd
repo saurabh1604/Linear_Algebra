@@ -1,0 +1,17 @@
+---
+title: "VisuaLin"
+author: "Saurabh"
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook
+---
+
+# Introduction
+
+Welcome to my book!
+
+## Chapter 1
+
+Understanding the Transformation
+
+In linear algebra, we often visualize linear transformations as the process of transforming one vector (input) into another vector (output) through a matrix.However, VisuaLin provides a unique perspective. Here, we visualize the transformation not just as a change in the output vector but as a dynamic shift in the entire input space. The entire space undergoes a transformation, resulting in the displacement of the input vector from its original position.
